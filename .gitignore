@@ -54,6 +54,7 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 
 application.zip
 Archive.zip
+applicationWithoutAssets.zip
 assets/
 assets/Archive 2.zip
 assets/uploads.zip
