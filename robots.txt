@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guyanaci.ceonpointllc.com/sitemap.xml
